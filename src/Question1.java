@@ -17,7 +17,7 @@ import java.util.Map;
  * @create 2020-06-17
  * @since 1.0.0
  */
-public class twoSum {
+public class Question1 {
 
     public static int[] solution1(int[] nums, int target) {
 
